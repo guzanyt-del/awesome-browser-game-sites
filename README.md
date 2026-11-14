@@ -94,3 +94,20 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+https://google.com
+
+https://brave.com
+
+https://bing.com
+
+https://duckduckgo.com
+
+https://startpage.com
+
+https://ecosia.org
+
+https://qwant.com
+
+https://yahoo.com
+
+https://yandex.com
